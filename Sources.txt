@@ -1,0 +1,68 @@
+Primary 
+
+https://rockarch.org 
+
+https://blog.rockarch.org/ux-design-for-archival-discovery 
+
+https://dimes.rockarch.org/ 
+
+https://cdr.lib.unc.edu/downloads/jm214t03m?locale=en 
+
+Secondary: 
+
+https://webmonster.com 
+
+https://www.webmonster.com/user-centric-homepage-tips-for-business-websites/ 
+
+https://www.webmonster.com/functionality-and-aesthetics-in-web-design-tips-and-best-practices/  
+
+https://nngroup.com 
+
+https://www.nngroup.com/articles/advice-designing-vast-web-archives/ 
+
+https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/ 
+
+https://www.nngroup.com/people/jakob-nielsen/ 
+
+https://www.universityliving.com/blog/admission-guide/university-of-copenhagen/ 
+
+ 
+
+Authority: This information was written by Jakob Neilsen, he has over three decades of experience in web design, specifically web design in terms of human interactions. He has a Ph.D. in human–computer interaction from the Technical University of Denmark in Copenhagen proving he is one of the most qualified people for the job. The university he went to also seems qualified in what they’re teaching. Overall, it seems these articles were written by a qualified individual. 
+
+Accuracy: The information is correct because it aligns with already established UX principles like readability, logical grouping and clear navigation. It also follows NNgroups research that they’ve linked on usability testing and user behavior studies, which seem to be reputable and using real people. They also follow industry standards like WCAG for accessibility and do not go against any widely accepted best usability and UI practices. The website does not include footnotes or a bibliography but links its own webpages, research studies and claims. They’re information is based on their own studies which are summarized in their articles, but I can’t access the detailed reports since they are paid. 
+
+Objectivity: 
+
+ 
+
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents 
+
+https://slickplan.com 
+
+https://slickplan.com/blog/types-of-website-structure 
+
+https://slickplan.com/blog/how-to-design-a-website-a-complete-guide 
+
+https://slickplan.com/blog/author/ian-lawson 
+
+https://www.linkedin.com/in/ianplawson/ 
+	https://www.niche.com/colleges/the-modern-college-of-design/reviews/ 
+
+https://www.linkedin.com/in/wellsstephanie2016/ 
+
+Authority: This information was written by Ian Lawson, he has over two decades of UI and website design experience as well as having gone to school for two years for graphic design at a reliable college. This information was also written by Stephanie Wells, she has bachelor's degrees in business/marketing and accounting and an MBA in business administration from Write University which is reliable, and this proves that her background supports her expertise in website structure and design since she would know the best practices. 
+
+Accuracy: The information shown on the website is correct because it aligns with widely accepted concepts in web design. The article identifies website structure and design which is consistent with other website design websites like Wix.com and UXPin. With both being highly reputable companies. Although they do not include explicit citations, footnotes, or a bibliography to reference external sources. The authors who wrote these have lots of experience in web design and are talking about generally accepted principles throughout the field. 
+
+Objectivity: Based on the articles I read, the information seems to be objective, and fact based. It organizes websites into four distinct types, which are widely accepted and recognized classifications in web design. On the other article it discusses how to design a website, and the information it discusses is in line with the other websites I researched website design on. The article does lack citations or links to external sources but because the information is consistent with information found on reputable websites it proves Slickplan is valid. There also does not seem to be personal bias in the information presented, because it describes how to design a website and structure it rather than saying there is one objective best way or just one viewpoint, instead it offers many. 
+
+Currency: The authors have not provided dates on when the articles were published but both were updated March 4, so the information is recent. This is current enough to be consistent with current context of web design and technology. 
+
+Based on these points the website seems to be reputable in terms of giving accurate, objective and current information. However, it is concerning that they do not have sources, explicit citations or references. 
+
+https://protofuse.com/articles/how-to-design-structure-website-with-sitemap/ 
+
+https://seranking.com/blog/website-structure/ 
+
+ 
