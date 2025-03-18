@@ -1,0 +1,117 @@
+Process journal 
+
+What are the best UI design practices for digital archives?  
+
+    Always think about the user’s goals. Keep the user’s needs and accessibility at the beginning of every choice and decision. 
+
+    Focus on a barebones structure or information architecture first. Create a site map and wireframe to clearly define the flow of webpages and content needs. 
+
+    Design the homepage with the user’s search needs in mind. Make sure the search bar is obvious, and collections can be easily accessed. 
+
+    Make sure each archive item has its own dedicated page and URL with clear citations, detailed explanations, and proper labeling for easy bookmarking and sharing. 
+
+    Maintain a clean, uncluttered layout with a uniform color scheme. Use a light or white background with black text for maximum readability. 
+
+    Use concise, meaningful text. Use short brief text so that essential information is communicated quickly and loading times remain fast. 
+
+    Prioritize navigability over flashy design. Create clear menu structures, breadcrumbs, and live index links so users can easily find what they need. 
+
+    Include a consistent footer on all pages. The footer should contain essential links such as social media, contact information, copyright details, privacy policy, and accessibility statements. 
+
+    Build with accessibility and backward compatibility in mind. Use code that older browsers recognize and ensure the website is accessible to all users. 
+
+    Apply consistent typography rules. Use a maximum of three system fonts, use appropriate font sizes, and use white space for readability. 
+
+    Use color schemes strategically. Choose colors that suit the site’s content and target audience (for example, in our case, school colors), and use contrast to emphasize important elements while ensuring consistency across devices. 
+
+    Implement responsive design practices. Use a grid system to organize content, prioritize elements based on importance, and ensure the layout adapts seamlessly to different devices and screen sizes. 
+
+    Optimize media assets. Utilize thumbnails that can be enlarged and optimize images and videos for faster loading without sacrificing quality. 
+
+    Limit third-party plugins. Keep the website designed to enhance performance and reduce the potential for maintenance issues. 
+
+    Get early feedback to perfect usability, accessibility, and overall user satisfaction. 
+
+    Keep long-term maintenance in mind. Design the website to be reliable with minimal upkeep while ensuring it remains accessible and functional over time. 
+
+ 
+
+How to Structure a Website? 
+
+    Begin with thorough planning and research by defining the website’s objectives, identifying the target audience, and determining the required content. Create a detailed sitemap that lists every page and maps out how users will navigate from one page to another. 
+
+    Involve key contributors during the planning phase and invest lots of time into designing and refining the sitemap and website structure before starting the actual design or development. 
+
+    If unsure where to start, review examples of other websites with similar goals and structures to gain insights into effective organization and navigation strategies. 
+
+    Design a consistent header for every page that includes the site title, logo, and tagline. 
+
+    Implement a clear, intuitive navigation bar that links to the site’s primary sections (such as Home, About, Archive, Contact) using short, simple phrases. 
+
+    Design a dedicated main content area where unique content for each page is displayed. 
+
+    Include an optional sidebar for related links, additional information, or advertisements, ensuring it supports rather than clutters the main content. 
+
+    Create a comprehensive footer that contains secondary details such as copyright information, contact links, privacy policies, disclaimers, and legal information. 
+
+    Use semantic HTML elements to structure your pages by replacing generic elements with tags like header, nav, main, article, section, aside, and footer to improve code clarity, accessibility, and maintainability. 
+
+    Reserve non-semantic elements like div and span for styling or grouping content only when no appropriate semantic element is available. 
+
+    Organize content logically by grouping related information into clear categories and subcategories, using techniques such as card sorting. 
+
+    Build an intuitive menu and navigation system that uses contextual links, breadcrumbs, and cornerstone pages, ensuring that every page can be reached within three clicks. 
+
+    Design the menu system to accommodate secondary, tertiary, and further levels of navigation for easy scanning and findability, while avoiding clutter. 
+
+    Ensure the website structure is scalable and can grow as more content or pages are added without becoming disorganized. 
+
+    Create designated templates for different types of pages (for example, forms, galleries, PDF displays) to maintain consistency across the site. 
+
+    Use internal hyperlinks effectively to connect different pages, improving overall navigation and helping users understand their location within the website’s hierarchy. 
+
+    Review and control page indexing by using appropriate tags (such as noindex and nofollow) on pages like search results, sorting options, and pagination, while keeping important pages accessible to search engine crawlers. 
+
+    Avoid duplicate pages and unnecessary sitelinks to ensure that navigation remains simple and focused. 
+
+ 
+
+How to design a homepage? 
+
+    Use an eye-catching image or slider at the top of the homepage to grab attention and include a brief introduction to your company. 
+
+    Clearly present a summary of your services, include a strong call-to-action, provide contact information, and share your mission statement along with customer testimonials if available. 
+
+    Keep navigation simple and clear by grouping related links, avoiding unnecessary elements, and maintaining a clean, minimalist design with ample whitespace. 
+
+    Use consistent typography, bold or large headings, and strategic colors to create a strong visual hierarchy that guides users' attention. 
+
+    Ensure the homepage is fully responsive by using flexible layouts, grid systems, and responsive images that adapt to all devices, including mobile and tablets. 
+
+    Write compelling, concise headlines with 6–8 words, use high-quality and relevant images, and keep messaging short and easy to understand. 
+
+    Optimize for conversions by placing CTAs above the fold, limiting them to 1–2 per page, making them highly visible, and incorporating trust signals like customer testimonials, awards, or security seals. 
+
+    Follow WCAG accessibility guidelines by supporting keyboard navigation, using high-contrast text, and ensuring screen readers can interpret content properly. 
+
+    Include a clear tagline that defines your business, optimize the window title with your company name and a brief description, and add an "About Us" section for credibility. 
+
+    Improve usability by adding a visible search box (at least 27 characters wide), displaying real content examples instead of just descriptions, and keeping recent features accessible with a link to older ones. 
+
+    Use meaningful graphics that add value to the content, avoid generic stock photos, and optimize link names with relevant keywords to enhance scanning and navigation. 
+
+ 
+
+ 
+
+Identify how you will find sources:  
+
+Locating and assessing your sources: I will find sources by looking at already existing archiving websites, analyzing their designs, blogs, research papers and their publications on the topic of archiving websites for primary sources. I will also be looking at other blogs based on archiving as secondary sources. 
+
+ 
+
+ 
+
+ 
+
+ 
